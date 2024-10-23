@@ -16,7 +16,7 @@
 ---
 ## 기능 설명 
 [서버 타입 컨트롤러 설명](src/main/java/kr/co/greenart/web/customer/qna/README.md)
-[스프링 부트 어노테이션 설명]
+[스프링 부트 어노테이션 설명](https://github.com/Seodongchann/customerqna/blob/master/src/main/java/kr/co/greenart/web/README.md)
 
 
 <p align="center">
