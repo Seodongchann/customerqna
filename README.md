@@ -13,7 +13,7 @@
 <br>
 <p align="center">다음은 컨텐츠 예시입니다. 너무 많은 내용은 읽기 어렵습니다. 필요한 부분만을 사용하세요.</p>
 ## 기능 설명 
-[서버 타입 컨트롤러 설명](/src/main/java/kr/co/greenart/web/customer/qna)
+[서버 타입 컨트롤러 설명][/src/main/java/kr/co/greenart/web/customer/qna]
 ---
 
 <p align="center">
